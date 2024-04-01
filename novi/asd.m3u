@@ -4,6 +4,6 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="MRT1Ⓖ" tvg-logo="https://i.imgur.com/EkkyAE0.png" tvg-id="	MRT1.mk" group-title="MKD",MRT1 Ⓖ
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+https://s1.teve.mk/tvstanici/6/playlist.m3u8
 #EXTINF:-1 tvg-name="MRT2Ⓖ" tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-id="	MRT2.mk" group-title="MKD",MRT2 Ⓖ
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8 
